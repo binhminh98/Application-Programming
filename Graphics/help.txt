@@ -1,0 +1,36 @@
+/////////////////////////////////////////////////////////////
+/                        UEA Adventure                      /
+/                         Instructions                      /
+/////////////////////////////////////////////////////////////
+/ 					    	            /
+/           Things you can do in UEA Adventure:		    /
+/						            /
+/  - 'me': to display information about yourself            /
+/  - 'move': you can move 'up', 'down', 'left', or 'right'  /
+/  - 'inspect': display your current location's details     /
+/  - 'search item': search items in your current location   /
+/  - 'inventory': display your inventory                    /
+/  - 'pick up': pick up an item to your inventory           /
+/  - 'save': save your progress                             /
+/  - 'map': display the world map                           /
+/  - 'action': display a list of actions you can do         /
+/  - 'check user' (for Admin only): check the list users    /
+/  - 'help': display help menu                              /
+/  - 'quit': quit the game                                  /
+/                                                           /
+/  It is the beginning of a new semester and you are        /
+/  enrolling in MSc Data Science at UEA.                    /
+/                                                           /
+/  You undertake 3 modules in this semester: Application    /
+/  Programming (AP), Database Manipulation (DB), and        /
+/  Research Techniques (RT). However, DB and RT are private /
+/  classes, you could not attend unless you have a password./
+/                                                           /
+/  Try to finish all the tests in AP module to win the game./
+/                                                           /
+/  After that, your name will forever be remembered in      /
+/  the Hall Of Fame!!! And also, I wish that you will have  /
+/  lots of fun playing UEA Adventure ^^.                    /
+/                                                           /
+/                          - Back -                         /
+/////////////////////////////////////////////////////////////

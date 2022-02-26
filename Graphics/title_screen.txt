@@ -1,0 +1,11 @@
+/////////////////////////////////////////////
+/          Welcome to UEA Adventure         /
+/     A MUD text-based game by Minh Lai     /
+/////////////////////////////////////////////
+/                                           /
+/                - New game -               /
+/     - Already have an account? Log in -   /
+/                  - Help -                 /
+/                  - Quit -                 /
+/                                           /
+/////////////////////////////////////////////
